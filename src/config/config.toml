@@ -1,0 +1,4 @@
+[openai]
+model = "gpt-3.5-turbo-16k"
+max-tokens = 16384
+api-key = "YOUR_API_KEY"
